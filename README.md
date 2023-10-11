@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 # Hello, I'm [jrhemstad](https://github.com/jrhemstad) 👋
 
 ## About Me
