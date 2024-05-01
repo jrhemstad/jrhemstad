@@ -8,6 +8,8 @@
 - 🎯 My mission is to make CUDA C++ more delightful for developers.
 
 ## Publications & Presentations
+  - [Revamping llm.c with the CUDA C++ Core Libraries](https://www.youtube.com/watch?v=WiB_3Csfj_Q)
+  - GTC 2024: Mastering CUDA C++: Best Practices with the CUDA C++ Core Libraries
   - [Using CUDA Stream-Ordered Memory Allocator (Part 1)](https://developer.nvidia.com/blog/using-cuda-stream-ordered-memory-allocator-part-1/)
   - [Using CUDA Stream-Ordered Memory Allocator (Part 2)](https://developer.nvidia.com/blog/using-cuda-stream-ordered-memory-allocator-part-2/)
   - [Maximizing Performance with Massively Parallel Hash Maps on GPUs](https://developer.nvidia.com/blog/maximizing-performance-with-massively-parallel-hash-maps-on-gpus/)
